@@ -7,4 +7,4 @@ back_to_top: false
 nav_exclude: true
 ---
 
-[糊涂塔克的博客](https://git.lxf.science/blog)
+[糊涂塔克的博客](https://blog.lxf.science)
