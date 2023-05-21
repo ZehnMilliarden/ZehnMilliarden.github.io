@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 糊涂塔克
+hide_title: true
 description: 这里是糊涂塔克的小站
 
 is_te: false
