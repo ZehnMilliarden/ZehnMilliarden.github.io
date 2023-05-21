@@ -21,7 +21,7 @@ is_te: false
 te_flag: 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://git.lxf.science/"
+url: "https://h.lxf.science/"
 repository: just-the-docs/just-the-docs # for github-metadata
 
 header_switch: false #
